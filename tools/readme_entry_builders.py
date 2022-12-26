@@ -24,7 +24,7 @@ class LeetCodeEntryBuilder(EntryBuilder):
 
         dir_name = "0" * (4 - len(problem_id)) + problem_id + ". " + name
 
-        path_to_solution = f"{constants.GITHUB_MAIN_BRANCH}/LeetCode/{quote(dir_name)}"
+        path_to_solution = f"{constants.GITHUB_MAIN_BRANCH}/solutions/{quote(dir_name)}"
 
         self.entry = f"| {problem_id} | [{name}]({url}) | [Solution]({path_to_solution})|\n"
         return self
