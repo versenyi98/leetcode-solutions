@@ -19,6 +19,7 @@
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)|
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0328.%20Odd%20Even%20Linked%20List)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0451.%20Sort%20Characters%20By%20Frequency)|
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0520.%20Detect%20Capital)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0797.%20All%20Paths%20From%20Source%20to%20Target)|
