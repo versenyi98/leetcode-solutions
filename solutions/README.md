@@ -19,6 +19,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0328.%20Odd%20Even%20Linked%20List)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0451.%20Sort%20Characters%20By%20Frequency)|
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0520.%20Detect%20Capital)|
+| 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0724.%20Find%20Pivot%20Index)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0797.%20All%20Paths%20From%20Source%20to%20Target)|
