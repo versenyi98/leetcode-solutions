@@ -12,6 +12,7 @@
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0142.%20Linked%20List%20Cycle%20II)|
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0150.%20Evaluate%20Reverse%20Polish%20Notation)|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0198.%20House%20Robber)|
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0205.%20Isomorphic%20Strings)|
