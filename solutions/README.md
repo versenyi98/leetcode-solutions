@@ -69,3 +69,4 @@
 | 2513 | [Minimize the Maximum of Two Arrays](https://leetcode.com/problems/minimize-the-maximum-of-two-arrays/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2513.%20Minimize%20the%20Maximum%20of%20Two%20Arrays)|
 | 2514 | [Count Anagrams](https://leetcode.com/problems/count-anagrams/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2514.%20Count%20Anagrams)|
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2525.%20Categorize%20Box%20According%20to%20Criteria)|
+| 2526 | [Find Consecutive Integers from a Data Stream](https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2526.%20Find%20Consecutive%20Integers%20from%20a%20Data%20Stream)|
