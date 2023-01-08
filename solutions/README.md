@@ -30,6 +30,7 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0520.%20Detect%20Capital)|
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0589.%20N-ary%20Tree%20Preorder%20Traversal)|
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0704.%20Binary%20Search)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0724.%20Find%20Pivot%20Index)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
