@@ -9,6 +9,7 @@
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0021.%20Merge%20Two%20Sorted%20Lists)|
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)|
 | 32 | [Longest Valid Parenthesess](https://leetcode.com/problems/longest-valid-parenthesess/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0032.%20Longest%20Valid%20Parenthesess)|
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0035.%20Search%20Insert%20Position)|
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0055.%20Jump%20Game)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0102.%20Binary%20Tree%20Level%20Order%20Traversal)|
