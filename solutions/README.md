@@ -19,6 +19,7 @@
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0142.%20Linked%20List%20Cycle%20II)|
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0149.%20Max%20Points%20on%20a%20Line)|
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0150.%20Evaluate%20Reverse%20Polish%20Notation)|
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0189.%20Rotate%20Array)|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0198.%20House%20Robber)|
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0205.%20Isomorphic%20Strings)|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0206.%20Reverse%20Linked%20List)|
