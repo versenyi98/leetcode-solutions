@@ -14,6 +14,7 @@
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0055.%20Jump%20Game)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0088.%20Merge%20Sorted%20Array)|
+| 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0098.%20Validate%20Binary%20Search%20Tree)|
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0102.%20Binary%20Tree%20Level%20Order%20Traversal)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
