@@ -34,6 +34,7 @@
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0290.%20Word%20Pattern)|
 | 309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0309.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20with%20Cooldown)|
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0328.%20Odd%20Even%20Linked%20List)|
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0350.%20Intersection%20of%20Two%20Arrays%20II)|
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0392.%20Is%20Subsequence)|
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0409.%20Longest%20Palindrome)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0451.%20Sort%20Characters%20By%20Frequency)|
