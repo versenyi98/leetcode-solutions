@@ -45,6 +45,7 @@
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0452.%20Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons)|
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0509.%20Fibonacci%20Number)|
 | 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0520.%20Detect%20Capital)|
+| 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0557.%20Reverse%20Words%20in%20a%20String%20III)|
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0566.%20Reshape%20the%20Matrix)|
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0589.%20N-ary%20Tree%20Preorder%20Traversal)|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0704.%20Binary%20Search)|
