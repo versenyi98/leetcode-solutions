@@ -17,6 +17,7 @@
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0098.%20Validate%20Binary%20Search%20Tree)|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0100.%20Same%20Tree)|
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0102.%20Binary%20Tree%20Level%20Order%20Traversal)|
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0118.%20Pascal%27s%20Triangle)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0134.%20Gas%20Station)|
