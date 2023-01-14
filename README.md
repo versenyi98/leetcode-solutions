@@ -53,6 +53,7 @@
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0724.%20Find%20Pivot%20Index)|
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0733.%20Flood%20Fill)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0746.%20Min%20Cost%20Climbing%20Stairs)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0797.%20All%20Paths%20From%20Source%20to%20Target)|
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0834.%20Sum%20of%20Distances%20in%20Tree)|
