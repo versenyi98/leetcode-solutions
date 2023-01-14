@@ -40,6 +40,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0328.%20Odd%20Even%20Linked%20List)|
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0344.%20Reverse%20String)|
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0350.%20Intersection%20of%20Two%20Arrays%20II)|
+| 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0383.%20Ransom%20Note)|
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0387.%20First%20Unique%20Character%20in%20a%20String)|
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0392.%20Is%20Subsequence)|
 | 409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0409.%20Longest%20Palindrome)|
