@@ -10,6 +10,7 @@
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0028.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String)|
 | 32 | [Longest Valid Parenthesess](https://leetcode.com/problems/longest-valid-parenthesess/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0032.%20Longest%20Valid%20Parenthesess)|
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0035.%20Search%20Insert%20Position)|
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0036.%20Valid%20Sudoku)|
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0053.%20Maximum%20Subarray)|
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0055.%20Jump%20Game)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
