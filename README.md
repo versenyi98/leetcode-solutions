@@ -34,6 +34,7 @@
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0217.%20Contains%20Duplicate)|
 | 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0232.%20Implement%20Queue%20using%20Stacks)|
 | 235 | [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree)|
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0242.%20Valid%20Anagram)|
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0278.%20First%20Bad%20Version)|
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0283.%20Move%20Zeroes)|
 | 290 | [Word Pattern](https://leetcode.com/problems/word-pattern/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0290.%20Word%20Pattern)|
