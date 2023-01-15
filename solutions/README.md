@@ -23,6 +23,7 @@
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0134.%20Gas%20Station)|
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0141.%20Linked%20List%20Cycle)|
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0142.%20Linked%20List%20Cycle%20II)|
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0149.%20Max%20Points%20on%20a%20Line)|
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0150.%20Evaluate%20Reverse%20Polish%20Notation)|
