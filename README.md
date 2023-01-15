@@ -56,6 +56,7 @@
 | 566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0566.%20Reshape%20the%20Matrix)|
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0567.%20Permutation%20in%20String)|
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0589.%20N-ary%20Tree%20Preorder%20Traversal)|
+| 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0695.%20Max%20Area%20of%20Island)|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0704.%20Binary%20Search)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0724.%20Find%20Pivot%20Index)|
 | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0733.%20Flood%20Fill)|
