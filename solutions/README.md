@@ -29,6 +29,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0189.%20Rotate%20Array)|
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0198.%20House%20Robber)|
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0200.%20Number%20of%20Islands)|
+| 203 | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0203.%20Remove%20Linked%20List%20Elements)|
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0205.%20Isomorphic%20Strings)|
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0206.%20Reverse%20Linked%20List)|
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0217.%20Contains%20Duplicate)|
