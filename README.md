@@ -14,6 +14,7 @@
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0036.%20Valid%20Sudoku)|
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0053.%20Maximum%20Subarray)|
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0055.%20Jump%20Game)|
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0062.%20Unique%20Paths)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0088.%20Merge%20Sorted%20Array)|
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0098.%20Validate%20Binary%20Search%20Tree)|
