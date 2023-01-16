@@ -74,6 +74,7 @@
 | 797 | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0797.%20All%20Paths%20From%20Source%20to%20Target)|
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0834.%20Sum%20of%20Distances%20in%20Tree)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0841.%20Keys%20and%20Rooms)|
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0844.%20Backspace%20String%20Compare)|
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0876.%20Middle%20of%20the%20Linked%20List)|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0886.%20Possible%20Bipartition)|
