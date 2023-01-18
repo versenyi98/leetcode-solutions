@@ -82,6 +82,7 @@
 | 872 | [Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0872.%20Leaf-Similar%20Trees)|
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0876.%20Middle%20of%20the%20Linked%20List)|
 | 886 | [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0886.%20Possible%20Bipartition)|
+| 918 | [Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0918.%20Maximum%20Sum%20Circular%20Subarray)|
 | 926 | [Flip String to Monotone Increasing](https://leetcode.com/problems/flip-string-to-monotone-increasing/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0926.%20Flip%20String%20to%20Monotone%20Increasing)|
 | 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0931.%20Minimum%20Falling%20Path%20Sum)|
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0938.%20Range%20Sum%20of%20BST)|
