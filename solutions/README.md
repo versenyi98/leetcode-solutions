@@ -21,6 +21,7 @@
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0094.%20Binary%20Tree%20Inorder%20Traversal)|
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0098.%20Validate%20Binary%20Search%20Tree)|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0100.%20Same%20Tree)|
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0101.%20Symmetric%20Tree)|
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0102.%20Binary%20Tree%20Level%20Order%20Traversal)|
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)|
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0118.%20Pascal%27s%20Triangle)|
