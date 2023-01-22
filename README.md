@@ -74,6 +74,7 @@
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0617.%20Merge%20Two%20Binary%20Trees)|
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0692.%20Top%20K%20Frequent%20Words)|
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0695.%20Max%20Area%20of%20Island)|
+| 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0700.%20Search%20in%20a%20Binary%20Search%20Tree)|
 | 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0701.%20Insert%20into%20a%20Binary%20Search%20Tree)|
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0704.%20Binary%20Search)|
 | 724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0724.%20Find%20Pivot%20Index)|
