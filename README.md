@@ -77,6 +77,7 @@
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0567.%20Permutation%20in%20String)|
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0589.%20N-ary%20Tree%20Preorder%20Traversal)|
 | 617 | [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0617.%20Merge%20Two%20Binary%20Trees)|
+| 653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv---input-is-a-bst/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0653.%20Two%20Sum%20IV%20-%20Input%20is%20a%20BST)|
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0692.%20Top%20K%20Frequent%20Words)|
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0695.%20Max%20Area%20of%20Island)|
 | 700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0700.%20Search%20in%20a%20Binary%20Search%20Tree)|
