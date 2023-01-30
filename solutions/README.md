@@ -19,6 +19,7 @@
 | 328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0328.%20Odd%20Even%20Linked%20List)|
 | 352 | [Data Stream as Disjoint Intervals](https://leetcode.com/problems/data-stream-as-disjoint-intervals/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0352.%20Data%20Stream%20as%20Disjoint%20Intervals)|
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0451.%20Sort%20Characters%20By%20Frequency)|
+| 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0472.%20Concatenated%20Words)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0834.%20Sum%20of%20Distances%20in%20Tree)|
