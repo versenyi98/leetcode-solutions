@@ -1,6 +1,5 @@
 from collections import defaultdict
 
-
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
         trusts = defaultdict(int)
