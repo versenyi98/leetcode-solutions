@@ -22,6 +22,7 @@
 | 451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0451.%20Sort%20Characters%20By%20Frequency)|
 | 472 | [Concatenated Words](https://leetcode.com/problems/concatenated-words/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0472.%20Concatenated%20Words)|
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0739.%20Daily%20Temperatures)|
+| 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0787.%20Cheapest%20Flights%20Within%20K%20Stops)|
 | 790 | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0790.%20Domino%20and%20Tromino%20Tiling)|
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0834.%20Sum%20of%20Distances%20in%20Tree)|
 | 841 | [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0841.%20Keys%20and%20Rooms)|
