@@ -4,6 +4,7 @@
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0002.%20Add%20Two%20Numbers)|
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0003.%20Longest%20Substring%20Without%20Repeating%20Characters)|
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0004.%20Median%20of%20Two%20Sorted%20Arrays)|
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0006.%20Zigzag%20Conversion)|
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0014.%20Longest%20Common%20Prefix)|
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0019.%20Remove%20Nth%20Node%20From%20End%20of%20List)|
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0020.%20Valid%20Parentheses)|
