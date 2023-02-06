@@ -111,6 +111,7 @@
 | 938 | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0938.%20Range%20Sum%20of%20BST)|
 | 944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0944.%20Delete%20Columns%20to%20Make%20Sorted)|
 | 947 | [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0947.%20Most%20Stones%20Removed%20with%20Same%20Row%20or%20Column)|
+| 953 | [Verifying an Alien Dictionary](https://leetcode.com/problems/verifying-an-alien-dictionary/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0953.%20Verifying%20an%20Alien%20Dictionary)|
 | 974 | [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0974.%20Subarray%20Sums%20Divisible%20by%20K)|
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0977.%20Squares%20of%20a%20Sorted%20Array)|
 | 980 | [Unique Paths III](https://leetcode.com/problems/unique-paths-iii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0980.%20Unique%20Paths%20III)|
