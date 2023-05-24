@@ -160,3 +160,4 @@
 | 2527 | [Find Xor-Beauty of Array](https://leetcode.com/problems/find-xor-beauty-of-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2527.%20Find%20Xor-Beauty%20of%20Array)|
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2540.%20Minimum%20Common%20Value)|
 | 2541 | [Minimum Operations to Make Array Equal II](https://leetcode.com/problems/minimum-operations-to-make-array-equal-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2541.%20Minimum%20Operations%20to%20Make%20Array%20Equal%20II)|
+| 2542 | [Maximum Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/2542.%20Maximum%20Subsequence%20Score)|

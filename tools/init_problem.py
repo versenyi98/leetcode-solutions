@@ -1,6 +1,5 @@
 import argparse
 
-import readme_generator
 from workspace_creators import LeetCodeWorkspaceCreator
 
 
@@ -16,7 +15,6 @@ def main():
     args = arg_parser.parse_args()
 
     prepare_workspace_for_problem(args.name)
-    readme_generator.main()
 
 
 if __name__ == "__main__":
