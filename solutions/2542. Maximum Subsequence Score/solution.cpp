@@ -1,4 +1,4 @@
-#include "solution.hpp"
+#include "../solution.hpp"
 
 #include <algorithm>
 #include <numeric>

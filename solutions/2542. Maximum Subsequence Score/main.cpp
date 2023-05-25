@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-#include "solution.hpp"
+#include "../solution.hpp"
 
 int main() {
     Solution solution;
@@ -21,4 +21,6 @@ int main() {
 
         std::cout << solution.maxScore(nums1, nums2, k) << std::endl;
     }
+
+    return 0;
 }
