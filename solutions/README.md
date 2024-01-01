@@ -17,6 +17,7 @@
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0055.%20Jump%20Game)|
 | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0057.%20Insert%20Interval)|
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0062.%20Unique%20Paths)|
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0064.%20Minimum%20Path%20Sum)|
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0070.%20Climbing%20Stairs)|
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0077.%20Combinations)|
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0083.%20Remove%20Duplicates%20from%20Sorted%20List)|
