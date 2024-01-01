@@ -24,6 +24,7 @@
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0083.%20Remove%20Duplicates%20from%20Sorted%20List)|
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0088.%20Merge%20Sorted%20Array)|
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0091.%20Decode%20Ways)|
+| 93 | [Restore IP Adresses](https://leetcode.com/problems/restore-ip-adresses/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0093.%20Restore%20IP%20Adresses)|
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0094.%20Binary%20Tree%20Inorder%20Traversal)|
 | 98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0098.%20Validate%20Binary%20Search%20Tree)|
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0100.%20Same%20Tree)|
