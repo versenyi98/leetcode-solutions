@@ -34,6 +34,7 @@
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0112.%20Path%20Sum)|
 | 116 | [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)|
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascal's-triangle/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0118.%20Pascal%27s%20Triangle)|
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascal's-triangle-ii/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0119.%20Pascal%27s%20Triangle%20II)|
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0120.%20Triangle)|
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock)|
 | 124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Solution](https://github.com/versenyi98/leetcode-solutions/tree/main/solutions/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)|
